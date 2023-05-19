@@ -15,7 +15,7 @@ export const particleConfig = {
         composite: "destination-out",
         cover: {
             color: {
-                value: "#fff"
+                value: "transparent"
             },
             opacity: 1
         },
@@ -24,8 +24,8 @@ export const particleConfig = {
     defaultThemes: {},
     delay: 0,
     fullScreen: {
-        enable: true,
-        zIndex: -99
+        enable: false,
+        zIndex: -1
     },
     detectRetina: true,
     duration: 0,
