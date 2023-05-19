@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.big{
+  /* background-color: rgb(169, 134, 134); */
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.big .s1{
+  /* background-color: rgb(169, 134, 134); */
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.big .s2{
+  /* background-color: rgb(82, 43, 43); */
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
